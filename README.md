@@ -97,7 +97,7 @@ Upon successful completion of the prescribed modules, students will be able to:
 
 All instructional materials in this repository are aligned with:
 
-* **CBSE Class XII Information Technology (Code 802) Curriculum – 2024–25**
+* **CBSE Class XII Information Technology (Code 802) Curriculum – 2025–26**
 * **National Skills Qualifications Framework (NSQF) Level 4 Standards**
 * **Skill India and Digital India Initiatives** for promoting IT literacy
 
