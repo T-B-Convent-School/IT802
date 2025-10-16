@@ -86,7 +86,7 @@ IT802/
 ## License
 
 This project is distributed under the **MIT License**.
-Refer to the [LICENSE](./LICENSE) file for usage permissions and attribution requirements.
+Refer to the [LICENSE](./License) file for usage permissions and attribution requirements.
 
 ---
 
